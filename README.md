@@ -4,13 +4,13 @@
 
 Email Me 👉 ✉️ **aryabhagat249@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🎓 **Education:** B.Tech in Information Technology (2025 - 2029)
-- 🌱 **I’m currently learning:** JavaScript, React.js, and Backend basics.
--  🔭 **I’m currently working on:** Small projecsts 
-- 🤔 **I’m looking for help with:** Any sort of help/s
-- 👯 **I’m looking to collaborate on:** Beginner-friendly open-source projects and hackathons.
-- ⚡ **Fun fact:** I love developing and development loves me
--  😄 **Pronouns:**  Arya!!!❤️✨
+-  **Education:** B.Tech in Information Technology (2025 - 2029)
+-  **I’m currently learning:** JavaScript, React.js, and Backend basics.
+-  **I’m currently working on:** Small projecsts 
+-  **I’m looking for help with:** Any sort of help/s
+-  **I’m looking to collaborate on:** Beginner-friendly open-source projects and hackathons.
+-  **Fun fact:** I love developing and development loves me
+-  **Pronouns:**  Arya❤️✨
 
 
 ## 🌐 Socials:
